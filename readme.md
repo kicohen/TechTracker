@@ -28,7 +28,9 @@ The purpose of this system is one main thing. It is to track the inventory and m
   - timecards
   - budgets for events
 - Add Request System (this will be for requesting equipment either for purchase or that is already been scheduled for a date)
+- Add Dynamic Permissions
 
 
 #### Bugs
 - Inventory is not able to be attached to an event as of right now. This bug will be fixed soon. 
+- Authentication is kinda messed up. 
