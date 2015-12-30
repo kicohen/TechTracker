@@ -1,13 +1,13 @@
 ## Tech Tracker
 
 #### Purpose
-The purpose of this system is one main thing. It is to track the inventory and manage the events for any type of stagecrew that exists. TechTracker has features that are used from high school level events up to professional events and there will be more features to come.
+The purpose of the TechTracker system is to track manage an organizations events, members, inventory and calendar for any type of stagecrew that exists. TechTracker features are used across all types of technical crews from high school level events to professional events. TechTracker is functional in its current state, however more feautures are in the works.
 
 #### Features (current)
-- Attendance/Absence Tracking (for high schools)
+- Attendance/Absence Tracking (for educational organizations)
 - Organizations
 - Inventory
-- User
+- Users
 - Event Tracking
   - Comments
   - Locations
